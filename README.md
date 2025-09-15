@@ -74,7 +74,7 @@ Modify the `--input_folder` and `--output_folder` parameters to point to your de
 NCCL_P2P_DISABLE=1 python MambAttention/inference.py --input_folder=VB-DemandEx/noisy_test --output_folder=output --checkpoint_file=results/seed3441/g_00xxxxxx.pth --config=MambAttention/checkpoints/MambAttention_seed3441_VB-DemandEx.yaml
 ```
 
-Model weights and training recipe can be found in: (WILL BE ADDED SOON!) and [MambAttention Recipe](checkpoints/MambAttention_seed3441_VB-DemandEx.yaml) is now available.
+Model weights and training recipe can be found in: [MambAttention Weights](https://github.com/NikolaiKyhne/MambAttention/blob/main/checkpoints/seed3441.pth) and [MambAttention Recipe](checkpoints/MambAttention_seed3441_VB-DemandEx.yaml) is now available.
 
 
 ## Evaluation
