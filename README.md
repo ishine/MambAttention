@@ -86,11 +86,14 @@ The evaluation metrics is calculated via: [CMGAN](https://github.com/ruizhecao96
 ## Citation:
 If you find the paper useful in your research, please cite:  
 ```
-@article{kuehne2025mambattention,
-  title={MambAttention: Mamba with Multi-Head Attention for Generalizable Single-Channel Speech Enhancement},
-  author={Nikolai Lund K{\"u}hne and Jesper Jensen and Jan {\O}stergaard and Zheng-Hua Tan},
-  journal={arXiv preprint arXiv:2507.00966},
-  year={2025}
+@article{kuhne2026mambattention,
+  author={K{\"u}hne, Nikolai Lund and Jensen, Jesper and {\O}stergaard, Jan and Tan, Zheng-Hua},
+  journal={IEEE Transactions on Audio, Speech and Language Processing}, 
+  title={MambAttention: Mamba With Multi-Head Attention for Generalizable Single-Channel Speech Enhancement}, 
+  year={2026},
+  volume={34},
+  number={},
+  pages={820-833}
 }
 ```
 
