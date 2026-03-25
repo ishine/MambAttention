@@ -1,3 +1,4 @@
+# Modified from: https://github.com/MyParadise21/Mamba-SEUNet/blob/main/inference.py
 import glob
 import os
 import argparse
